@@ -1,3 +1,4 @@
+![A Zomato Power BI Dashboard](https://github.com/user-attachments/assets/79e0d5d8-53c4-415e-98ac-23f23339b930)
 🍴 Zomato Food Delivery Power BI Dashboard
 📖 Project Purpose
 
@@ -88,4 +89,3 @@ Enhance market expansion strategies using geo-based density mapping.
 
 Track and compare restaurant dine-in vs delivery performance.
 
-Screenshot: https://github.com/motiramaniharshita/Visualizing-Consumer-Behavior-Restaurant-Performance-A-Zomato-Power-BI-Dashboard/blob/main/A%20Zomato%20Power%20BI%20Dashboard.jpg
